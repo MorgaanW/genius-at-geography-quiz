@@ -1,7 +1,8 @@
 
 ![first page-wireframe H2](https://github.com/MorgaanW/genius-at-geography-quiz/assets/76822546/954ee76a-4632-466c-9530-ddcbe7520a1c)
+![question page wireframe - H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/3155ca6a-8f06-426e-8267-51cf13cf8bb2)
 
-[question page wireframe - H2](https://github.com/MorgaanW/genius-at-geography-quiz/assets/76822546/f9cebfa2-5107-4fcf-bc81-0818c78af663)
+
 ## User Stories
 * As a Site owner!
 
