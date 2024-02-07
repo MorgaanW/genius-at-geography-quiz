@@ -1,12 +1,4 @@
 
-![first page-wireframe H2](https://github.com/MorgaanW/genius-at-geography-quiz/assets/76822546/954ee76a-4632-466c-9530-ddcbe7520a1c)
-![question page wireframe - H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/3155ca6a-8f06-426e-8267-51cf13cf8bb2)
-![third page wireframe -H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/0b25cf66-6b1d-472e-b9f1-8b023710f302)
-![top score page wireframe H2 ](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/43421560-354c-4978-822c-7fbd3d4e2d9c)
-
-
-
-
 ## User Stories
 * As a Site owner!
 
@@ -26,6 +18,13 @@
 * Game page
 * End page
 * Leaderboard page
+
+## Wireframes
+
+![first page-wireframe H2](https://github.com/MorgaanW/genius-at-geography-quiz/assets/76822546/954ee76a-4632-466c-9530-ddcbe7520a1c)
+![question page wireframe - H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/3155ca6a-8f06-426e-8267-51cf13cf8bb2)
+![third page wireframe -H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/0b25cf66-6b1d-472e-b9f1-8b023710f302)
+![top score page wireframe H2 ](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/43421560-354c-4978-822c-7fbd3d4e2d9c)
 
 ## Technologies used
 
