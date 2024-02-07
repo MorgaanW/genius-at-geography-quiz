@@ -21,6 +21,24 @@ wireframes/first page-wireframe H2.png
 
 ## Technologies used
 
+* HTML 
+
+* CSS 
+
+* JavaScript 
+
+* Google Fonts as font resource
+
+* GitHub as software hosting platform to keep project in a remote location
+
+* Git as version-control system tracking
+
+* GitPod as developer hosting platform
+
+* Balsamiq as wireframing tool application
+
+* [API - Open Trivia geography quiz ](https://opentdb.com/api_config.php).  
+
 ## Testing and Validation
 * HTML and CSS
 * Accessibility and Responsiveness
