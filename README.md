@@ -6,6 +6,7 @@ wireframes/first page-wireframe H2.png
   * As a site owner, I want to integrate an API for generating quiz questions seamlessly , ensuring that it fetches a diverse range of geography-related questions reliably and  efficiently.
   * As a site owner, I want to incorporate gamification elements, such as  leaderboards, and Higscores
   * As a site owner, I want to optimize the quiz game for search engines (SEO) by incorporating relevant keywords and meta tags to attract  traffic and improve visibility in search results.
+  * As a site owner, I want to configure the API request parameters to  1.Number of questions to return; 2. category of questions ex: geography, animals,etc and 3. multiple choice questions
 * As a Player
   * As a player, I want to track my progress during the quiz, including the number of questions answered correctly and questions answered incorrecty
   * As a player, I want the quiz to be visually appealing and user-friendly, with clear instructions and intuitive navigation, to enhance my overall experience.
