@@ -68,10 +68,44 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 1.5rem;
+
   }
+.correct-answers {
+    border-radius: 1.5rem; 
+    background-color: rgb(74, 134, 89);
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   align-items: end;
+   margin-top: 2rem;
+}
+
+.incorrect-answers {
+    border-radius: 1.5rem;
+    background-color: rgb(255, 251, 251); 
+    width: 50%;
+    display: flex;
+    align-items: center;
+    align-items: center;
+    justify-content: space-between;
+   align-items: end;
+   margin-top: 2rem;
+}
+
+.incorrect-answers {
+  border-radius: 1.5rem;
+  background-color: rgb(255, 251, 251); 
+  width: 70%;
+  display: flex;
+  align-items: center;
+}
+
   
   .row {
-    background-color: rgb(74, 134, 89);
+    background-color: rgb(155, 68, 68);
+    ;
   }
   
   .col .flex-column {
