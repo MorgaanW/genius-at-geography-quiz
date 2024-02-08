@@ -1,4 +1,7 @@
 
+## UX
+
+
 
 ## User Stories
 * As a Site owner!
@@ -14,11 +17,49 @@
   * As a player, I want the quiz to be accessible on multiple devices, including desktop computers, laptops, tablets, and smartphones, so that I can play anytime, anywhere.
   * As a player, I want to access a clear and concise rules section within the quiz interface so that I can understand the game mechanics and expectations before starting.
   * As a player, I want the questions and answers to load quickly and without delay so that I can smoothly progress through the quiz and focus on answering the questions accurately.
-## Feature
-* Home page
-* Game page
-* End page
-* Leaderboard page
+
+## Features
+* Home page - The home page includes a visually appealing background image with two buttons. The first button displays the simple "How to play" instructions for the game. The "Start" button begins the quiz for the user. 
+
+* Game page - The game page has the following features:
+
+    * A question counter, so the user is aware of what number question they are on and how many questions remain.
+
+    * Multiple choice answer buttons that immediately log the gamers' answer and automatically displays the next question. 
+
+    * An event listener that plays an audio sound depending on the users' correct/incorrect answers.
+
+    * A feedback score counter of correct and incorrect answers that updates as the user moves through the questions on the quiz.
+
+* End page - The end page lets the user know their final score at the end of the quiz, with an added option to save their username and score to the leaderboard, if they would like. If so, the user is then taken to the leaderboard page to see the top scores!
+    * The end page also includes a button that takes the user back to the home page without saving their result and the option to take the quiz again from the home page.
+
+* Leaderboard page - This page consists of a table showing the top scores from saved quiz takers and also a button to return the user back to the home page.
+
+## Design
+
+## Wireframes
+
+![first page-wireframe H2](https://github.com/MorgaanW/genius-at-geography-quiz/assets/76822546/954ee76a-4632-466c-9530-ddcbe7520a1c)
+![question page wireframe - H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/3155ca6a-8f06-426e-8267-51cf13cf8bb2)
+![third page wireframe -H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/0b25cf66-6b1d-472e-b9f1-8b023710f302)
+![top score page wireframe H2 ](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/43421560-354c-4978-822c-7fbd3d4e2d9c)
+
+## Font
+
+* Quicksand, sans-serif - main font.
+
+## Media
+
+* Background image - A visual appealing image is used to cover the background of each page on the quiz. The image is a map of the world, which may help the users' when answering questions! 
+
+## Colors
+
+* #ffffff (white) 
+* #000000 (black)
+
+The above colors are used for font color, link and answer buttons.
+
 
 ## Wireframes 
 
