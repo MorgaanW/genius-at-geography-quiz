@@ -11,95 +11,79 @@
     />
     <title>Quiz-Play</title>
     <link rel="stylesheet" href="assets/css/app.css" />
-    <link rel="stylesheet" href="assets/css/game.css">
-    
+    <link rel="stylesheet" href="assets.css/game.css">
+  
   </head>
   
-    <body>
+  <body>
 
+      <div class="container-fluid">
 
-        <div class="container-fluid">
-            <div id="home" id="home">
-              <h1>Genius At Geography Quiz</h1>
-      
-              <div class="col-2">
-                <a
-                  id="how-to-play"
-                  class="btn btn-light"
-                  type="submit"
-                  href="#"
-                  style="color: black"
-                  >HOW TO PLAY</a
-                >
-      
-                <div class="col-2">
-                  <a
-                    id="start game"
-                    class="btn btn-light"
-                    type="submit"
-                    href="assets/js/game.js"
-                    style="color: black"
-                    >START GAME</a
+        <div class="container-lg my-5 justify-content-center align-items-center">
+          <h1 id="question">What is the answer to this question?</h1>
+            <div class="row justify-content-between">
+              <div id="game" class="justify-center flex-column">
 
-                    div class="col-2">
-                <a
-                  id="how-to-play"
-                  class="btn btn-light"
-                  type="submit"
-                  href="#"
-                  style="color: black"
-                  >HOW TO PLAY</a
-                >
-      
-                <div class="col-2">
-                  <a
-                    id="start game"
-                    class="btn btn-light"
-                    type="submit"
-                    href="assets/js/game.js"
-                    style="color: black"
-                    >START GAME</a
-                  >
-                </div>
-              </div>
+                <div id="hud">
+                  <div id="hud-item">
+                    <p class="hud-prefix col-sm-4 col-lg6">Score</p>
+                    <h1 class="hud-main-text" id="score">0</h1>
+                  </div>
+                </div>    
+                
+            <div class="container-lg my-5 justify-content-center align-items-center">     
+                <div class="row">
+                  <div class="col-sm-4 col-lg-6">
+                    <div class=" choice-container p-5 bg-primary text-light">
+                      <p class=" col choice-prefix">A</p>
+                      <p class="choice-text" data-number="1">Choice 1</p>
+                  </div>
+                </div>                  
+          <div class="col-sm-4 col-lg-6">
+            <div class=" choice-container p-5 bg-primary text-light">
+              <p class=" col choice-prefix">B</p>
+              <p class="choice-text" data-number="1">Choice 2</p>
             </div>
           </div>
-      </div>
-      </div>
-        
-         <!-- <div class="container-fluid">
-            <div class=""row>
-          <div id="game" class="justify-center flex-column">
-            <div id="hud">
-              
-              <div id="hud-item">
-                <p class="hud-prefix">Score</p>
-                <h1 class="hud-main-text" id="score">0</h1>
+          <div class="container-lg my-5 justify-content-center align-items-center">     
+            <div class="row">
+              <div class="col-sm-4 col-lg-6">
+                <div class=" choice-container p-5 bg-primary text-light">
+                  <p class=" col choice-prefix">C</p>
+                  <p class="choice-text" data-number="1">Choice 3</p>
+                </div>
               </div>
-            </div>
-            <h2 id="question">What is the answer to this questions?</h2>
-            <div class="choice-container">
-              <p class=" col choice-prefix">A</p>
-              <p class="choice-text" data-number="1">Choice 1</p>
-            </div>
-            <div class="choice-container">
-              <p class="choice-prefix">B</p>
-              <p class="choice-text" data-number="2">Choice 2</p>
-            </div>
-            <div class="choice-container">
-              <p class="choice-prefix">C</p>
-              <p class="choice-text" data-number="3">Choice 3</p>
-            </div>
-            <div class="choice-container">
-              <p class="choice-prefix">D</p>
-              <p class="choice-text" data-number="4">Choice 4</p>
-            </div>
-        </div>
-        </div> 
-        <script src="assets.js/game.js"></script>
-      </body>
-    </html> 
-  -->
+              <div class="col-sm-4 col-lg-6">
+                <div class=" choice-container bg-primary p-5 text-light">
+                  <p class=" col choice-prefix">D</p>
+                  <p class="choice-text" data-number="1">Choice 4</p>
+                </div>
+              </div>
+    </div>
+  </div>  
+    </div>
+    </div>
+  </div>
+  </div>
+  <div class="container-lg my-5 ">     
+    <div class="row justify-content-center align-items-center">
+      <div class=" col-sm-4 col-lg-6">
+        <div class=" correct-answers p-5 bg-primary text-light text-center">
+          <p>Correct Answers</p>         
+      </div>
+      </div>  
+      <div class="col-sm-4 col-lg-6">
+        <div class=" incorrect-answers p-5 bg-primary text-light text-center">
+          <p >Incorrect Answers</p>             
+    </div>  
+  </div>
+</div>
+
+        
+<script src="assets.js/game.js"></script>
+</body>
+</html> 
+  
 
 <!-- Bootstrap JS -->
 <script
