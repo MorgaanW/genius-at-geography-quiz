@@ -1,8 +1,9 @@
 :root {
   
-    background-color: #15171d;
+    /*background-color: #15171d;*/
     font-size: 62.5%; // 1rem = 10px
     font-family: ;
+    background-image:url('assets/images/geography map H2.png');
   }
   
   * {
@@ -11,15 +12,7 @@
     margin: 0;
     padding: 0;
     color: #443e2a;
-  }
-
-  body {
-    background-image: url('assets/images/geography-map.webp');
-   
-    background-size: cover; /* Cover the entire page */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-position: center; /* Center the image */
-}
+    }
   
   h1,
   h2,
